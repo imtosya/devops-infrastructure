@@ -4,7 +4,11 @@
 
 ## Технологии
 
-**Технологии:** Docker, Kubernetes
+
+
+
+**Технологии:** Docker, Terraform, Kubernetes
+
 
 ## Структура
 
