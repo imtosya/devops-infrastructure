@@ -9,3 +9,7 @@
 ## Структура
 
 Будет дополняться по мере разработки.
+## Docker
+
+    docker build -t devops-demo:1.0 ./docker
+    docker run -d -p 8080:80 devops-demo:1.0
